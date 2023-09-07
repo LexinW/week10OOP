@@ -30,7 +30,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Summary
 ```md
-I created the full user story and acceptance criteria, but I could not get the SVG file to load properly. I tried using different ways of importing SVG loaders and I couldnt find one that I could figure out. 
+I created the full user story and acceptance criteria, but I could not get the SVG file to load properly. I don't know if we were suppose to create an html page to display it properly? My svg file looks the same as the example given, but I cant get it to display the actual image.
 ```
 
 ## LINKS
