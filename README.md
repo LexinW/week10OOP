@@ -32,3 +32,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```md
 I created the full user story and acceptance criteria, but I could not get the SVG file to load properly. I tried using different ways of importing SVG loaders and I couldnt find one that I could figure out. 
 ```
+
+## LINKS
+```md
+GItHub: https://github.com/LexinW/week10OOP
+```
